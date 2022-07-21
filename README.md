@@ -7,13 +7,15 @@
     
 </h1>
 
+## Automação para Mobile em Robot Framework com Appium, testes automatizados com Android Studio.
 
-| |
-| :------------------------------------                                                        | 
-| nome do personagem                                                                           |
-| idade                                                                                        | 
-| codinome                                                                                     | 
-| afiliações (vingadores, x-men, etc..)                                                        | 
-| se o personagem está ativo ou não                                                     |      |
 
+| | Instalação e configuração do Android Studio                    |
+| :----------------------------------------------------------------| 
+|  Executando o servidor do Appium                                 |
+|  Prepara o Appium para rodar no Robot Framework                  | 
+|  Manipular vários elementos mobile para testes automatizados     | 
+|  Como subir um dispositivo android virtual                       | 
+|  Como criar um projeto do ZERO em Robot Framework                | 
+|  Usar o Appium Inspector para criar localizadores por ID e XPath | 
 
