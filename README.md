@@ -2,12 +2,12 @@
 
 <h1 align="left">
 
-<img src="https://user-images.githubusercontent.com/104467309/180246729-8f78ae33-be23-4ac4-8e12-3b07ef2d9a76.png" width="250"> 
+<img src="" width="250"> 
     
 </h1>
 
 <h1 align="left">
-    <img src=".github/logo-stiker.svg" width="250px">
+    <img src="https://user-images.githubusercontent.com/104467309/180249296-671c73d2-af67-48d1-b9ad-d3a148460a8f.svg" width="250px">
 </h1>
 
 
