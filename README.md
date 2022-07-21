@@ -10,12 +10,13 @@
 ## Automação para Mobile em Robot Framework com Appium, testes automatizados com Android Studio.
 
 
-| | Instalação e configuração do Android Studio                    |
-| :----------------------------------------------------------------| 
+|  Instalação e configuração do Android Studio                     |
+| :--------------------------------------------------------------- | 
 |  Executando o servidor do Appium                                 |
 |  Prepara o Appium para rodar no Robot Framework                  | 
 |  Manipular vários elementos mobile para testes automatizados     | 
 |  Como subir um dispositivo android virtual                       | 
 |  Como criar um projeto do ZERO em Robot Framework                | 
 |  Usar o Appium Inspector para criar localizadores por ID e XPath | 
+
 
