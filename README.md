@@ -6,4 +6,17 @@
     
 </h1>
 
-Automação para Mobile em Robot Framework com Appium, testes automatizados com Android Studio.
+<h1 align="left">
+    <img src=".github/logo-stiker.svg" width="250px">
+</h1>
+
+
+|Automação para Mobile em Robot Framework com Appium, testes automatizados com Android Studio. |
+| :------------------------------------                                                        | 
+| nome do personagem                                                                           |
+| idade                                                                                        | 
+| codinome                                                                                     | 
+| afiliações (vingadores, x-men, etc..)                                                        | 
+| se o personagem está ativo ou não                                                     |      |
+
+
