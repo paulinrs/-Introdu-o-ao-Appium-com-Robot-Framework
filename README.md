@@ -1,8 +1,9 @@
 # Appium para Android Apps com Robot Framework
 
 <h1 align="left">
-    <img src=".github/logo-stiker.svg" width="250px">
+
+<img src="https://user-images.githubusercontent.com/104467309/180246729-8f78ae33-be23-4ac4-8e12-3b07ef2d9a76.png" width="250"> 
+    
 </h1>
-<img src="https://user-images.githubusercontent.com/104467309/180241511-eb972301-9e1e-4150-8e5d-8677aab1f622.png" width="80"> 
 
 Automação para Mobile em Robot Framework com Appium, testes automatizados com Android Studio.
